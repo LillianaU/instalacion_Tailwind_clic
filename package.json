@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/LillianaU/instalacion_Tailwind_clic/issues"
   },
-  "homepage": "https://github.com/LillianaU/instalacion_Tailwind_clic#readme"
+  "homepage": "https://github.com/LillianaU/instalacion_Tailwind_clic#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
 }
